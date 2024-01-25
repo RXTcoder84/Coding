@@ -1,0 +1,8 @@
+answer = " "
+words = []
+answer = input("Noun")
+words.append(answer)
+
+answer = input("Adjective")
+words.append(answer)
+print(words)
